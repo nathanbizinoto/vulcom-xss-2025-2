@@ -11,7 +11,9 @@
     "cookie-parser": "^1.4.7",
     "ejs": "latest",
     "express": "latest",
-    "sqlite3": "latest"
+    "helmet": "^7.2.0",
+    "sqlite3": "latest",
+    "validator": "^13.15.15"
   },
   "devDependencies": {
     "nodemon": "latest"
